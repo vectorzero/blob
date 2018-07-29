@@ -34,6 +34,8 @@ tags: 黑科技
 }
 ```
 
+<!-- more -->
+
 #### React
 
 `npm i -S parcel-bundler react react-dom babel-preset-env babel-preset-react`
